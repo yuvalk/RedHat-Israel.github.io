@@ -29,7 +29,7 @@
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "@jspm/generator": "^1.1.0",
+    "@jspm/generator": "^1.1.12",
     "@rhds/elements": "^1.0.0-beta.33",
     "@rhds/tokens": "^1.0.0-beta.9",
     "element-internals-polyfill": "^1.2.6",
